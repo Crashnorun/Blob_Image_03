@@ -1,3 +1,9 @@
+/Animation/*
+/Blob_Images/*
+/Cam_Images/*
+/Keep/*
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
