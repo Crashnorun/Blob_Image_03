@@ -2,6 +2,7 @@
 /Blob_Images/*
 /Cam_Images/*
 /Keep/*
+*.docx
 
 
 # Windows image file caches
