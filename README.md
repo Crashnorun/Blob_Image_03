@@ -4,7 +4,7 @@ The Blob Detection repo is a personal project of mine that deals identifying col
 
 ## Intro:
 
-The focus of this project is to identify color similarities within images. An [average human can distinguish about 10 million different colors] ( [https://en.wikipedia.org/wiki/Color\_vision](https://en.wikipedia.org/wiki/Color_vision)). This project attempts to highlight those different colors and finds their seminaries within images taken from a web cam attached to your PC. Check out the  [color similarity page on my website ](https://www.charlesportelli.com/play-1/#/color-sampling/)to see the results from this app. For a list of all my projects check out:  [www.CharlesPortelli.com](https://www.charlesportelli.com/)
+The focus of this project is to identify color similarities within images. An [average human can distinguish about 10 million different colors] (https://en.wikipedia.org/wiki/Color_vision). This project attempts to highlight those different colors and finds their seminaries within images taken from a web cam attached to your PC. Check out the  [color similarity page on my website](https://www.charlesportelli.com/play-1/#/color-sampling/) to see the results from this app. For a list of all my projects check out:  [www.CharlesPortelli.com](https://www.charlesportelli.com/)
 
 ## Requirements:
 
