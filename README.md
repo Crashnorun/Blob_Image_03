@@ -15,7 +15,7 @@ The focus of this project is to identify color similarities within images. An [a
 
 ## Results:
 
-The resultant images can be seen below.
+The resultant images can be seen below while the app is running.
 ![Blob Gif](https://github.com/Crashnorun/Blob_Image_03/blob/master/Example%20Images/Blob_Tracing_02.gif)
 
 Original Image       | Blob Image
