@@ -18,5 +18,6 @@ The focus of this project is to identify color similarities within images. An [a
 The resultant images can be seen below.
 ![Blob Gif](https://github.com/Crashnorun/Blob_Image_03/blob/master/Example%20Images/Blob_Tracing_02.gif)
 
-Original Image:
-![Original Image](https://github.com/Crashnorun/Blob_Image_03/blob/master/Example%20Images/22.jpg) ![Blob Image](https://github.com/Crashnorun/Blob_Image_03/blob/master/Example%20Images/Image_12.jpg)
+Original Image:       | Blob Image
+:--------------------:|:--------------------:
+![Original Image](https://github.com/Crashnorun/Blob_Image_03/blob/master/Example%20Images/22.jpg) | ![Blob Image](https://github.com/Crashnorun/Blob_Image_03/blob/master/Example%20Images/Image_12.jpg)
