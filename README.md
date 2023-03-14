@@ -22,3 +22,15 @@ The resultant images can be seen below while the app is running.
 Original Image       | Blob Image
 :--------------------:|:--------------------:
 ![Original Image](https://github.com/Crashnorun/Blob_Image_03/blob/master/Example%20Images/22.jpg) | ![Blob Image](https://github.com/Crashnorun/Blob_Image_03/blob/master/Example%20Images/Image_12.jpg)
+
+Possible naming options:
+* Color Clouds
+* Chromatic Constellations
+* Color Blooms
+* Tonal Trails
+* Hue Haze
+* Chromatic Capriccio
+* Color Compositions
+* Chromatic Connections
+* Tonal Tapestry
+* Chromatic Cohesion
